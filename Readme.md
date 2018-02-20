@@ -1,4 +1,4 @@
-The Purpose of the solution is to convert "Amount in Numbers" to "Amount in Digits".
+The Purpose of the solution is to convert "Amount in Digits" to "Amount in Words".
 
 DigitsToWords.ChequeService takes Amount as input and converts it to words.
 Unit tests are written to test the solution.
