@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitsToWords", "DigitsToWords\DigitsToWords.csproj", "{0010D95B-D43B-42D9-BCC0-36D63466A91B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitsToWords.Tests", "DigitsToWords.Tests\DigitsToWords.Tests.csproj", "{89075B7A-4846-430C-84A9-FCB7DD5FC272}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{08328518-DD56-45B5-A99B-0C168EAE5CC5}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0010D95B-D43B-42D9-BCC0-36D63466A91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0010D95B-D43B-42D9-BCC0-36D63466A91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0010D95B-D43B-42D9-BCC0-36D63466A91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0010D95B-D43B-42D9-BCC0-36D63466A91B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89075B7A-4846-430C-84A9-FCB7DD5FC272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89075B7A-4846-430C-84A9-FCB7DD5FC272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89075B7A-4846-430C-84A9-FCB7DD5FC272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89075B7A-4846-430C-84A9-FCB7DD5FC272}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {199CACD6-7DA0-493F-8E9E-95D63CC30A56}
+	EndGlobalSection
+EndGlobal
